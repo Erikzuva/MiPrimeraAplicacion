@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SISE</string>
+    <string name="mensaje">Welcome to My Application</string>
+    <string name="txtnombre">Name</string>
+    <string name="txtemail">email</string>
+    <string name="txttelefono">Phone</string>
+    <string name="txtMasculino">Male</string>
+    <string name="txtFemenino">Female</string>
+    <string name="txtSexo">Sex</string>
+    <string name="btnEnviar">Send</string>
+</resources>

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SISE</string>
+    <string name="mensaje">Bienvenido a Mi Aplicación</string>
+    <string name="txtnombre">Nombre</string>
+    <string name="txtemail">Correo</string>
+    <string name="txttelefono">Telefono</string>
+    <string name="txtMasculino">Masculino</string>
+    <string name="txtFemenino">Femenino</string>
+    <string name="txtSexo">Sexo</string>
+    <string name="btnEnviar">Enviar</string>
+</resources>
